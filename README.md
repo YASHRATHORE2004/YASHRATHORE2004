@@ -16,6 +16,7 @@ A Frontend Web Developer from India, making seamless and user friendly interface
 
 ## 🚀 Languages and Tools
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
